@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @Punny2001 or Krissanapong
+- 👀 I’m interested in Information Communication and Technology
+- 🌱 I’m currently learning Database and Intelligence Systems
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ..
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linezeek&theme=tokyonight)](https://github.com/linezeek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linezeek&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
