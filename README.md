@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punny2001&theme=tokyonight&&show_icons=true)](https://github.com/Punny2001/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punny2001&layout=demo&theme=tokyonight)](https://github.com/Punny2001/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punny2001&&theme=tokyonight&&show_icons=true)](https://github.com/Punny2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punny2001&&layout=demo&theme=tokyonight)](https://github.com/Punny2001/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Punny2001&repo=ITCS393-Database-Systems-Lab)](https://github.com/Punny2001/ITCS393-Database-Systems-Lab)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Punny2001&repo=ITCS393-Database-Systems-Lab&&theme=tokyonight)](https://github.com/Punny2001/ITCS393-Database-Systems-Lab)
 
 
