@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me ..
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punny2001&theme=tokyonight)](https://github.com/Punny2001/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punny2001&layout=demo&theme=tokyonight)](https://github.com/Punny2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punny2001&layout=compact&theme=tokyonight)](https://github.com/Punny2001/github-readme-stats)
 
