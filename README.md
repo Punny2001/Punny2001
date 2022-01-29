@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Punny2001&repo=Permutation&&theme=tokyonight)](https://github.com/Punny2001/Permutation)
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21vywjssqfppc2kyjpruxne6y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
