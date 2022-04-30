@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punny2001&&theme=tokyonight&&show_icons=true)](https://github.com/Punny2001/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punny2001&&layout=demo&theme=tokyonight)](https://github.com/Punny2001/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Punny2001&repo=Permutation&&theme=tokyonight)](https://github.com/Punny2001/Permutation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Punny2001&repo=Permutation&&theme=tokyonight)](https://github.com/Punny2001/Gammation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Punny2001&repo=Permutation&&theme=tokyonight)](https://github.com/Punny2001/Encrypted-Text-Editor)
