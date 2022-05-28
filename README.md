@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - 👀 I’m interested in Information Communication and Technology
 - 🌱 I’m currently learning Database and Intelligent Systems
 - 💞️ I’m currently working on data engineer at AIS company
-- 📫 How to reach me  <a target="_blank" href="https://www.linkedin.com/in/krissanapong-palakham/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- 📫 How to reach me 
+<a href="https://www.linkedin.com/in/krissanapong-palakham/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <a target="_blank" href="https://www.instagram.com/ppunnyyyy_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
