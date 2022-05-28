@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @Punny2001 or Krissanapong
 - 👀 I’m interested in Information Communication and Technology
-- 🌱 I’m currently learning Database and Intelligence Systems
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 🌱 I’m currently learning Database and Intelligent Systems
+- 💞️ I’m currently working on data engineer at AIS company
+- 📫 How to reach me [![pygame](http://img.instagram.com/ppunnyyyy_/)]((https://www.instagram.com/ppunnyyyy_/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punny2001&&theme=tokyonight&&show_icons=true)](https://github.com/Punny2001/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Punny2001&&layout=demo&theme=tokyonight)](https://github.com/Punny2001/github-readme-stats)
 
