@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @Punny2001 or Krissanapong
 - 👀 I’m interested in Information Communication and Technology
 - 🌱 I’m currently learning Database and Intelligent Systems
-- 💞️ I’m currently working on internship as data engineer at AIS company
+- 💞️ I’m currently working on internship as Data Engineer and Data Analyst at AIS Company
 - 📫 How to reach me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krissanapong-palakham/">
