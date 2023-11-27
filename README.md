@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Punny2001&&theme=tokyonight&&show_icons=true)](https://github.com/Punny2001/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punny2001)](https://github.com/punny2001/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punny20011&&theme=tokyonight)](https://github.com/punny2001/github-readme-stats)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Punny2001&repo=Gammation&&theme=tokyonight)](https://github.com/Punny2001/Gammation)
