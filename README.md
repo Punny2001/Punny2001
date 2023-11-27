@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @Punny2001 or Krissanapong
 - 👀 I’m interested in Full Stack Data and Entrepreneurship
 - 🌱 I’m currently a graduate of the Faculty of ICT, at Mahidol University
-- 💞️ I’m a Former Data Engineer at AIS Company
+- 💞️ I’m a Former Data Engineer Intern at AIS Company
+- 💞️ I'm a Founder at TechFusion (Facebook Page)
 - 📫 How to reach me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krissanapong-palakham/">
