@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @Punny2001 or Krissanapong
-- 👀 I’m interested in Data, Technology, and Entrepreneur with life-long learning
+- 👋 Hi, I’m @Punny2001 or Krissanapong Palakham
+- 👀 I’m interested in Data, AI, DevOps, and new technology
 - 🌱 I’m a graduate of the Faculty of ICT at Mahidol University
-- 💞️ I’m an Analyst at Inteltion
-- 💞️ I'm a Founder at TechFusion (Facebook Page)
+- 🔭 I’m currently working at SCB TechX as Python Developer (Outsource-Contract)
+- 💞️ I'm a Founder at DataBrew (Facebook Page)
 - 📫 How to reach me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/krissanapong-palakham/">
